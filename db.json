@@ -1,0 +1,13 @@
+{
+    "employee":[
+        {
+            "id":1,
+            "name":"abcd",
+            "age":"26",
+            "address":"Pune",
+            "department":"hr",
+            "salary":20000,
+            "marital state":false
+        }
+    ]
+}
